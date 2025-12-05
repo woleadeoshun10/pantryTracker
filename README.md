@@ -31,7 +31,7 @@ This application allows users to **add**, **remove**, and **track** pantry items
 Use Git to clone the project to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/pantry-tracker.git
+git clone https://github.com/woleadeoshun10/pantryTracker.git
 cd pantry-tracker/pantry
 
 ```
